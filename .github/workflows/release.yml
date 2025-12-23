@@ -50,7 +50,7 @@ jobs:
       - name: Publish Image
         env:
           KO_DOCKER_REPO: ghcr.io/${{ github.repository }}
-          KO_DEFAULTBASEIMAGE: gcr.io/distroless/static:latest
+          KO_DEFAULTBASEIMAGE: alpine:3
         run: |
           ko build ./cmd/fileproxy \
             --bare \
