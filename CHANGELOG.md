@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.2](https://github.com/shared-utils/fileproxy/compare/v1.1.1...v1.1.2) (2025-12-23)
+
+
+### Bug Fixes
+
+* use alpine base image for root user support ([c782057](https://github.com/shared-utils/fileproxy/commit/c7820576d323a1175e7b99c0003fabf1a0690c65))
+
 ## [1.1.1](https://github.com/shared-utils/fileproxy/compare/v1.1.0...v1.1.1) (2025-12-23)
 
 
