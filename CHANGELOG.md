@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/shared-utils/fileproxy/compare/v1.1.0...v1.1.1) (2025-12-23)
+
+
+### Bug Fixes
+
+* use distroless/static:latest (root) as base image ([166317d](https://github.com/shared-utils/fileproxy/commit/166317d338f73f002e21094300381cab757767ca))
+
 ## [1.1.0](https://github.com/shared-utils/fileproxy/compare/v1.0.0...v1.1.0) (2025-12-23)
 
 
